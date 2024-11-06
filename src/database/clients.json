@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Empresa A",
+        "identifier": "00.000.000/0001-00",
+        "type": "CNPJ",
+        "email": "empresaA@example.com",
+        "balance": 2500.75,
+        "lastConsultation": "2024-11-05T10:00:00"
+    },
+    {
+        "id": 2,
+        "name": "José Silva",
+        "identifier": "123.456.789-10",
+        "type": "CPF",
+        "email": "jose.silva@example.com",
+        "balance": 1500.50,
+        "lastConsultation": "2024-11-04T14:30:00"
+    },
+    {
+        "id": 3,
+        "name": "Empresa B",
+        "identifier": "11.111.111/0001-11",
+        "type": "CNPJ",
+        "email": "empresaB@example.com",
+        "balance": 3200.00,
+        "lastConsultation": "2024-11-03T09:15:00"
+    },
+    {
+        "id": 4,
+        "name": "Maria Oliveira",
+        "identifier": "987.654.321-00",
+        "type": "CPF",
+        "email": "maria.oliveira@example.com",
+        "balance": 4500.25,
+        "lastConsultation": "2024-11-05T11:45:00"
+    }
+]
